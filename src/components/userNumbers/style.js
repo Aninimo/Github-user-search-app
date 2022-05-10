@@ -13,6 +13,12 @@ export const Container = styled.div`
   font-size: .85rem;
   margin-bottom: 1.5rem;
   margin-left: 1rem;
+
+  @media screen and (max-width: 767px){
+    width: 280px;
+    gap: 1rem;
+    font-size: .5rem;
+  }
 `
 
 export const NumberContainer = styled.div`
