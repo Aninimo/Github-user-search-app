@@ -1,1 +1,1 @@
-# Searc-user-github-react
+# Search-user-github-react 🔎
