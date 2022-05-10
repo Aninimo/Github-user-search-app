@@ -1,7 +1,7 @@
 {
   "name": "react",
   "version": "0.0.0",
-  "homepage: "github-page/",
+  "homepage: "./",
   "private": true,
   "dependencies": {
     "axios": "0.27.2",
