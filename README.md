@@ -1,1 +1,3 @@
-# Search-user-github-react 🔎
+# Github user search app 🔎
+
+## About 
