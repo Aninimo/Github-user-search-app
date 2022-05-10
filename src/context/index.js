@@ -3,7 +3,7 @@ import React, { useState, useContext} from "react"
 
 export const context = createContext()
 
-export const contextProvider = props => {
+export const ContextProvider = props => {
   const[userData,setUserData] = ({})
 
   return(
