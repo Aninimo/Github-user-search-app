@@ -9,6 +9,10 @@ export const HeaderContainer = styled.div`
   padding: 10px;
   border-radius: .5rem;
   background: #0077b6;
+
+  @media screen and (max-width: 767px){
+    width: 350px;
+  }
 `
 
 export const HeaderInput = styled.input`
@@ -35,5 +39,11 @@ export const ButtonSearch = styled.button`
 
   :hover{
     background: #023e8a;
+  }
+
+  @media screen and (max-width: 767px){
+    padding: 5px 15px;
+    margin-left: -.5rem;
+    font-size: 1rem;
   }
 `
